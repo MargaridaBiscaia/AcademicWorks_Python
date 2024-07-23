@@ -10,4 +10,4 @@ This repository contains projects developed using Python during the Bachelor's i
 
 **Master**
 
-1. Parallel Computing (ComputaçãoParalela)
+1. Parallel Computing (ComputacaoParalela)
