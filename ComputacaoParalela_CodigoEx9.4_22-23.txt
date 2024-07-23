@@ -1,0 +1,1 @@
+Não é possível fazer paralelização deste algoritmo pois não existe nada no jogo que seja feito em simultâneo. Além disso, não podemos dividir o número de jogos pelos processadores pois dependem sempre do jogo anterior.
