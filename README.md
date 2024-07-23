@@ -1,6 +1,6 @@
 # AcademicWorks_Python
 
-This repository contains projects completed during the Bachelor's in Mathematics and Master's in Mathematics - Statistics, Optimization, and Financial Mathematics, using Python. These projects were conducted in groups of two.
+This repository contains projects developed using Python during the Bachelor's in Mathematics and Master's in Mathematics - Statistics, Optimization, and Financial Mathematics. These projects were conducted in groups of two.
 
 **CONTENTS**
 
